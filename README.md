@@ -14,3 +14,6 @@ Puedes encontrar información sobre cómo utilizar UR en Docker en el siguiente 
 
 ### Librería UR_rtde
 Puedes encontrar información sobre la librería UR_rtde en el siguiente enlace: [UR_rtde Documentation](https://sdurobotics.gitlab.io/ur_rtde/index.html)
+
+
+* ur robot vision based pick and place
